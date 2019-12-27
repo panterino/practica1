@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="734b40eb-5d97-4b0b-8488-259dd0800f80" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
+  </component>
+  <component name="ProjectId" id="1ReiPMWBdYRfP8eZbmkhupPgR04" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/OneDrive/Escritorio/Memorama3047" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Emili\IdeaProjects\Projects\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Emili\IdeaProjects\Projects\img" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Projects" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Memorama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Memorama" />
+      <module name="Projects" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Practica1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practica1" />
+      <module name="Projects" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Prueba2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Prueba2" />
+      <module name="Projects" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Window1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Window1" />
+      <module name="Projects" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Practica1" />
+        <item itemvalue="Application.Memorama" />
+        <item itemvalue="Application.Window1" />
+        <item itemvalue="Application.Prueba2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="734b40eb-5d97-4b0b-8488-259dd0800f80" name="Default Changelist" comment="" />
+      <created>1570033937042</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570033937042</updated>
+      <workItem from="1570033945149" duration="2781000" />
+      <workItem from="1570038634435" duration="714000" />
+      <workItem from="1570039506669" duration="530000" />
+      <workItem from="1570040090958" duration="3265000" />
+      <workItem from="1570043698484" duration="531000" />
+      <workItem from="1570075461621" duration="4867000" />
+      <workItem from="1570081019682" duration="233000" />
+      <workItem from="1570081655264" duration="698000" />
+      <workItem from="1570198786342" duration="1683000" />
+      <workItem from="1570203505768" duration="778000" />
+      <workItem from="1570246118839" duration="83000" />
+      <workItem from="1570402636995" duration="1450000" />
+      <workItem from="1570457537167" duration="8941000" />
+      <workItem from="1570580569531" duration="3883000" />
+      <workItem from="1570636561563" duration="2155000" />
+      <workItem from="1570640141274" duration="1491000" />
+      <workItem from="1570644452497" duration="258000" />
+      <workItem from="1570644796872" duration="563000" />
+      <workItem from="1570646678924" duration="2204000" />
+      <workItem from="1570654326357" duration="241000" />
+      <workItem from="1570834277052" duration="235000" />
+      <workItem from="1571013688117" duration="693000" />
+      <workItem from="1571019647432" duration="1421000" />
+      <workItem from="1571801182423" duration="354000" />
+      <workItem from="1571878222845" duration="9067000" />
+      <workItem from="1571890370815" duration="15000" />
+      <workItem from="1572496296521" duration="2944000" />
+      <workItem from="1572502724704" duration="323000" />
+      <workItem from="1572503088905" duration="641000" />
+      <workItem from="1572814321485" duration="63000" />
+      <workItem from="1573537642104" duration="52000" />
+      <workItem from="1573538182325" duration="42000" />
+      <workItem from="1573689595943" duration="61000" />
+      <workItem from="1573689854398" duration="579000" />
+      <workItem from="1577471726186" duration="2188000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
